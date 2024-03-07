@@ -1,16 +1,18 @@
 def lazy_function(a, b):
-    "blablabla"
+    "blablabla."
 
     print('Hello, boys')
     print(a, b)
 
 
 def new():
-    pass
+    print('купить продукты!')
+    print('купить продукты!')
+    print('купить продукты!')
 
 
 def my_feature_function():
-    """Makes some things."""
+    """makes some things."""
 
     size = 44
     price = 19
