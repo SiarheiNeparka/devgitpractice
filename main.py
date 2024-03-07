@@ -1,5 +1,10 @@
 print('Hello, World!')
 
-1+1
 
-print(123)
+def my_feature_function():
+    """Makes some things."""
+
+    a = 12
+    b = 19
+
+    return a + b
